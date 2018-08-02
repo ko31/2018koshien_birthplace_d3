@@ -4,6 +4,10 @@
 
 ![sample.png](https://raw.githubusercontent.com/ko31/2018koshien_birthplace_d3/master/sample.png)
 
+実際のページはこちらからご覧ください。
+
+* https://ko31.github.io/2018koshien_birthplace_d3/
+
 ## 補足
 
 * 出身地は『週刊朝日8/15増刊号 甲子園2018』に掲載された各選手の出身中学を条件にしています。
