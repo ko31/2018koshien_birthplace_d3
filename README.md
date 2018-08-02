@@ -12,3 +12,8 @@
 
 * 出身地は『週刊朝日8/15増刊号 甲子園2018』に掲載された各選手の出身中学を条件にしています。
 * データの可視化には D3.js の [Sankey Diagrams](https://github.com/d3/d3-plugins/tree/master/sankey) ライブラリを使用しています。
+
+## 参考URL
+
+* [D3.jsで2018年夏の甲子園出場校選手の出身都道府県をグラフ化](https://blog.ko31.com/201808/2018-koshien-birthplace-d3/)
+
